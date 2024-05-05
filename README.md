@@ -1,19 +1,17 @@
 ### Hey 👋, I'm Rahul
 
-<a href="https://www.linkedin.com/in/rahulgurjar247/">
-  <img align="left" alt="Rahul LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://twitter.com/RahulGurjar_247">
-  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/rahul__gurjar_247">
-  <img align="left" alt="rahul Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://leetcode.com/u/Rahul_gurjar_247">
-  <img align="left" alt="Rahul LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
-<br />
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rahulgurjar247">
+    <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/RahulGurjar_247">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://leetcode.com/u/Rahul_gurjar_247">
+    <img src="https://img.shields.io/badge/Leetcode-yello?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leet Code"/>
+  </a>
+</div>
+<!-- <br /> -->
 <br />
 
 Hi there, I'm **Rahul Gurjar**, a **Passionate Web devloper** and a **Software Engineering student** 🚀 from india.  Currently, I'm a working on Data structure & algorithm ,learning js library React .
