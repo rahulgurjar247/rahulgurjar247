@@ -40,7 +40,10 @@ Hi there, I'm **Rahul Gurjar**, a **Passionate Web devloper** and a **Software E
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 
-<br /> <br />
+<br />
+
+---
+<br />
 <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=rahulgurjarbca&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Rahul gurjar state" />
 <img align="centre" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgurjarbca&title_color=ff0087&bg_color=fafbfc00&text_color=35b5ff&hide=EJS" />
 
