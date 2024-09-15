@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Rahul
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/rahulgurjar247247">
+  <a href="https://www.linkedin.com/in/rahulgurjar247">
     <img src="https://img.shields.io/badge/LinkedIn-orange?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/RahulGurjar_247">
