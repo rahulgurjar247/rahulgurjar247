@@ -58,7 +58,7 @@ Hi there, I'm **Rahul Gurjar**, a **Passionate Web devloper** and a **Software E
  
   </br>
   <p align="left">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=rahulgurjar247&show_icons=true&count_private=true&title_color=ff0087&bg_color=fafbfc00&text_color=a2a2a2" alt="Rahul Gurjar's GitHub stats" />
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulgurjar247&layout=compact&hide=html" alt="Rahul Gurjar's GitHub stats" />
 <img align="centre" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=rahulgurjar247&theme=tokyonight" />
 </p>
 
