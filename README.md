@@ -14,14 +14,14 @@
 <!-- <br /> -->
 <br />
 
-Hi there, I'm **Rahul Gurjar**, a **Passionate Web devloper** and a **Software Engineering student** 🚀 from india.  Currently, I'm a working on Data structure & algorithm ,Learnings FullStack devlopement in Mern.
+Hi there, My self **Rahul Gurjar**, a **Passionate Fullstack developer** and a **Software Engineering student** 🚀 from india.  Currently, I'm a working on **Web3 / blockchain / FullStack developement** in Mern.
 
  <!-- <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" /> -->
 
 **Talking about Personal Stuffs:**
 - 👨🏽‍💻 I’m currently an Collage student working on Full-stack development;
 - 🌱 I’m currently working on Backend development/Project; 
-- 🤔 My interests are with FullStack Devlopement/Blockchain Development/Building Project, etc..;
+- 🤔 My interests are with FullStack Developement/Blockchain Development/Building Project, etc..;
 - 💼 I’m pursuing a Bachelor's degree in Software Engineering;
 - 💬 Ask me about anything, I am the Best guys you are looking;
 - 📫 Please email via rahulgurjar824582@gmail.com to reach me.
