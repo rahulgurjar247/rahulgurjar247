@@ -55,6 +55,14 @@ Hi there, My self **Rahul Gurjar**, a **Passionate Fullstack developer** and a *
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)  
+![AWS S3](https://img.shields.io/badge/AWS-s3-FF6C37?style=for-the-badge&logo=s3&logoColor=white) 
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-FF6C37?style=for-the-badge&logo=lambda&logoColor=white) 
+![AWS ec2](https://img.shields.io/badge/AWS-Ec2-FF6C37?style=for-the-badge&logo=ec2&logoColor=white) 
+![AWS ecs](https://img.shields.io/badge/AWS-Ecs-FF6C37?style=for-the-badge&logo=ecs&logoColor=white) 
+![AWS Cloudwatch](https://img.shields.io/badge/AWS-CloudWatch-FF6C37?style=for-the-badge&logo=cloudWatch&logoColor=white) 
+
+
+
  
   </br>
   <p align="left">
